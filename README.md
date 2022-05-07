@@ -4,7 +4,9 @@ Hi 👋 My name is Angelos Chouvardas
 Full Stack Developer and more...
 --------------------------------
 
-I am a Full Stack Developer, a Competitive Programmer, a Technical Writer, and an Open Source Enthusiast who is highly passionate about building creative applications. I love being challenged by coding problems. I focus on understanding user behaviours, designing applications, and creating great user experiences.
+I am a Full Stack Developer, a Competitive Programmer, a Technical Writer, and an Open Source Enthusiast who is highly passionate about building creative applications. 
+
+I love being challenged by coding problems. I focus on understanding user behaviours, designing applications, and creating great user experiences.
 
 * 🌍  I'm based in Greece
 * 🖥️  See my portfolio at [achouvardas.eu](http://achouvardas.eu/)
