@@ -57,3 +57,4 @@ src="https://img.shields.io/github/followers/achouvardas?logo=github&style=for-t
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/achouvardas"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.paypal.com/donate/?hosted_button_id=PBLZ4MWZXNZUN"><img src="https://newsroom.mastercard.com/wp-content/uploads/2016/09/paypal-logo.png" width="200" /></a>
